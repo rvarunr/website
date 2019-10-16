@@ -1,2 +1,2 @@
-FROM rvarunr/apache
+FROM hshar/webapp
 ADD . /var/www/html
